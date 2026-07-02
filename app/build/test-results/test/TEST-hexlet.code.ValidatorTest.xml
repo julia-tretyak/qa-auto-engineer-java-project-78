@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hexlet.code.ValidatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-06-30T12:07:26.488Z" hostname="MacBook-Pro-Ulia.local" time="0.001">
+<testsuite name="hexlet.code.ValidatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-07-02T13:33:27.615Z" hostname="MacBook-Pro-Ulia.local" time="0.005">
   <properties/>
-  <testcase name="testStringSchema()" classname="hexlet.code.ValidatorTest" time="0.001"/>
+  <testcase name="testStringSchemaRequiredWithContains()" classname="hexlet.code.ValidatorTest" time="0.002"/>
+  <testcase name="testStringSchemaAllChecks()" classname="hexlet.code.ValidatorTest" time="0.001"/>
+  <testcase name="testStringSchemaContains()" classname="hexlet.code.ValidatorTest" time="0.0"/>
+  <testcase name="testStringSchemaRequired()" classname="hexlet.code.ValidatorTest" time="0.0"/>
+  <testcase name="testStringSchemaMinLength()" classname="hexlet.code.ValidatorTest" time="0.0"/>
+  <testcase name="testStringSchemaBasic()" classname="hexlet.code.ValidatorTest" time="0.0"/>
+  <testcase name="testStringSchemaChaining()" classname="hexlet.code.ValidatorTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
