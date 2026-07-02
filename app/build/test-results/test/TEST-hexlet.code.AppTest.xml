@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hexlet.code.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-07-02T13:54:41.307Z" hostname="MacBook-Pro-Ulia.local" time="0.0">
+<testsuite name="hexlet.code.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-07-02T14:02:42.268Z" hostname="MacBook-Pro-Ulia.local" time="0.008">
   <properties/>
-  <testcase name="testApp()" classname="hexlet.code.AppTest" time="0.0"/>
+  <testcase name="testApp()" classname="hexlet.code.AppTest" time="0.008"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
