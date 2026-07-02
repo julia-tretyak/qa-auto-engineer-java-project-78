@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hexlet.code.ValidatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-07-02T13:33:27.615Z" hostname="MacBook-Pro-Ulia.local" time="0.005">
+<testsuite name="hexlet.code.ValidatorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-07-02T13:54:41.287Z" hostname="MacBook-Pro-Ulia.local" time="0.018">
   <properties/>
-  <testcase name="testStringSchemaRequiredWithContains()" classname="hexlet.code.ValidatorTest" time="0.002"/>
+  <testcase name="testNumberSchemaPositiveWithRequired()" classname="hexlet.code.ValidatorTest" time="0.01"/>
+  <testcase name="testNumberSchemaBasic()" classname="hexlet.code.ValidatorTest" time="0.001"/>
+  <testcase name="testNumberSchemaRange()" classname="hexlet.code.ValidatorTest" time="0.001"/>
+  <testcase name="testNumberSchemaChaining()" classname="hexlet.code.ValidatorTest" time="0.0"/>
+  <testcase name="testStringSchemaRequiredWithContains()" classname="hexlet.code.ValidatorTest" time="0.001"/>
   <testcase name="testStringSchemaAllChecks()" classname="hexlet.code.ValidatorTest" time="0.001"/>
-  <testcase name="testStringSchemaContains()" classname="hexlet.code.ValidatorTest" time="0.0"/>
+  <testcase name="testStringSchemaContains()" classname="hexlet.code.ValidatorTest" time="0.001"/>
+  <testcase name="testNumberSchemaAllChecks()" classname="hexlet.code.ValidatorTest" time="0.0"/>
   <testcase name="testStringSchemaRequired()" classname="hexlet.code.ValidatorTest" time="0.0"/>
   <testcase name="testStringSchemaMinLength()" classname="hexlet.code.ValidatorTest" time="0.0"/>
+  <testcase name="testNumberSchemaRequired()" classname="hexlet.code.ValidatorTest" time="0.001"/>
   <testcase name="testStringSchemaBasic()" classname="hexlet.code.ValidatorTest" time="0.0"/>
   <testcase name="testStringSchemaChaining()" classname="hexlet.code.ValidatorTest" time="0.0"/>
+  <testcase name="testNumberSchemaPositive()" classname="hexlet.code.ValidatorTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
